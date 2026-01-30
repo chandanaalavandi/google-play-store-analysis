@@ -43,7 +43,7 @@ This analysis highlights how app category, pricing model, and user sentiment inf
 ## 📈 Sample Visualizations
 
 ### Average Rating by Category
-![Average Rating by Category](visuals\avg_rating_by_category.png)
+![Average Rating by Category](C:\Users\chand\Desktop\Projects\Google-Play-Store-Analysis\visuals\avg_rating_by_category.png)
 
 ### Free vs Paid Apps
 ![Free vs Paid Apps](visuals/free_vs_paid.png)
